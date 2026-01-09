@@ -1,5 +1,5 @@
 # MySQL Python Data Analytics Mini-Project
-**Author: Reddi Jaswanth Kumar**
+**Author: Reddi Jaswanth Kumar **
 
 **Project Type: Database Normalization & Business Intelligence Dashboard**
 
