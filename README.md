@@ -1,4 +1,4 @@
-# MySQL Python Data Analytics Mini-Project
+# Retail Sales & Customer Performance Analytics
 **Author: Reddi Jaswanth Kumar **
 
 **Project Type: Database Normalization & Business Intelligence Dashboard**
